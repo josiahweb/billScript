@@ -1,0 +1,16 @@
+{
+  "name": "billscript",
+  "version": "1.0.0",
+  "description": "合并支付宝和微信的csv账单，并导出自己需要的表格格式。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
